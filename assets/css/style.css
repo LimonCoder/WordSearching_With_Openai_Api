@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    padding: 38px;
+}
+.search{
+    padding: 11px 139px;
+}
+
+.submit{
+    background: #736d6d;
+    padding: 12px 21px;
+    color: white;
+}
+
+.results {
+    margin-top: 27px;
+    font-size: 21px;
+}
+.results p {
+    margin-bottom: 10px;
+}
+
+
+
+td{
+    padding: 15px;
+    border-top: 1px solid #a4a09a;
+}
+
+#example_length,#example_filter, #example_info{
+    display: none;
+}
+#example h4 {
+    color: #2727e1;
+}
+#example h5 {
+    color: #2790ee;
+}
+#example p {
+    text-align: justify;
+}
+thead{
+    display: none;
+}
